@@ -1,3 +1,5 @@
+url-query-builder [![GoDoc](http://godoc.org/github.com/mappymappy/url-query-builder?status.svg)](http://godoc.org/github.com/mappymappy/url-query-builder)
+======
 # url-query-builder
 provide simple and powerful url query builder by struct tag
 
